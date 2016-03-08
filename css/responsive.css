@@ -1,0 +1,169 @@
+@media (max-width: 1024px){
+	#tf-home{
+	background: url(../img/01t.jpg);
+	-webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #fff;
+}
+
+#tf-home .overlay{
+	height: 750px;
+}
+
+	#tf-team{
+	background: url(../img/03.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+
+}
+
+#tf-team .overlay{
+	height: 600px;
+}
+	#tf-testimonials{
+	background: url(../img/05.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
+}
+
+@media (max-width: 768px){
+  .content {
+	padding: 40% 0 0;
+	}
+
+	#tf-home{
+	background: url(../img/01t.jpg);
+	-webkit-background-size: cover;
+ 	 -moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #fff;
+
+}
+
+	#tf-team{
+	background: url(../img/03.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+	#tf-testimonials{
+	background: url(../img/05.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
+}
+
+@media (max-width: 603px){
+#tf-home{
+	background: url(../img/01p.jpg);
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #fff;
+}
+
+#tf-home .overlay{
+	height: 650px;
+}
+
+	#tf-team{
+	background: url(../img/03.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+	#tf-testimonials{
+	background: url(../img/05p.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	color: #ffffff;
+}
+
+#tf-menu.navbar-default {
+	background-color: rgba(255, 255, 255, 0.95);
+
+	}
+
+#tf-menu {
+	padding: -10px;
+	transition: all 0.2s;
+}
+
+.navbar-brand{
+	padding: 0px;
+	margin-top: 3px;
+	height: 30px;
+
+}
+
+#tf-menu.navbar-default .navbar-header #pradanalogo{
+	width: 100px;
+	height: 25px;
+	background: url(../img/logoc.png);
+	background-size: 100px 25px;
+    background-repeat: no-repeat;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.navbar-toggle{
+	margin-top: -2px;
+	margin-right: -2px;
+
+
+
+}
+
+#tf-menu.navbar-default .navbar-nav > li > a {
+    color: #333;
+}
+
+#tf-menu a.navbar-brand {
+    color: #555;
+}
+#tf-works li.pull-right, #tf-works li.pull-left {
+    margin-top: 10px;
+    float: none !important;
+    text-align: center;
+    display: block;
+}
+label{
+    float: none !important
+}
+.pull-left.fnav,
+.pull-right.fnav {
+    float: none !important;
+    text-align: center;
+}
+
+.hover-bg .hover-text {
+    padding: 10% 5%;
+}
+}
+@media (max-width: 360px){
+.hover-bg .hover-text {
+   padding: 10% 5%;
+}
+}
